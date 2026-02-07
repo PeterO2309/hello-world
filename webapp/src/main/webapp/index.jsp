@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DevOps Registration Form</title>
+  <title>TheRock's DevOps Registration Form</title>
   <style>
     /* General body styles */
     body {
@@ -120,7 +120,10 @@
 
       <hr>
 
-      <label for="Name"><b>Enter Name</b></label>
+      <label for="Name"><b>Enter First Name</b></label>
+      <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+
+      <label for="Name"><b>Enter Surname</b></label>
       <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
 
       <label for="mobile"><b>Enter Mobile</b></label>
