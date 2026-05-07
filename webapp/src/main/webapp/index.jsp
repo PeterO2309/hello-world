@@ -115,7 +115,7 @@
 
   <form action="action_page.php">
     <div class="container">
-      <h1>The new User Registration for Therock's DevOps Learning</h1>
+      <h1>Main User Registration for Therock's DevOps Learning</h1>
       <p>Please fill in this form to create an account.</p>
 
       <hr>
